@@ -1,0 +1,292 @@
+{
+  "mainTable": [
+    {
+      "name": "LA FRANCE REVIENT ! AVEC JORDAN BARDELLA ET MARINE LE PEN",
+      "code": "LRN",
+      "count": 1,
+      "percentage1": 10.43,
+      "percentage2": 21.87
+    },
+    {
+      "name": "RÉVEILLER L'EUROPE",
+      "code": "LUG",
+      "count": 918,
+      "percentage1": 9.23,
+      "percentage2": 19.36
+    },
+    {
+      "name": "BESOIN D'EUROPE",
+      "code": "LENS",
+      "count": 696,
+      "percentage1": 7,
+      "percentage2": 14.68
+    },
+    {
+      "name": "LA FRANCE INSOUMISE - UNION POPULAIRE",
+      "code": "LFI",
+      "count": 472,
+      "percentage1": 4.75,
+      "percentage2": 9.95
+    },
+    {
+      "name": "EUROPE ÉCOLOGIE",
+      "code": "LVEC",
+      "count": 351,
+      "percentage1": 3.53,
+      "percentage2": 7.4
+    },
+    {
+      "name": "LA DROITE POUR FAIRE ENTENDRE LA VOIX DE LA FRANCE EN EUROPE",
+      "code": "LLR",
+      "count": 221,
+      "percentage1": 2.22,
+      "percentage2": 4.66
+    },
+    {
+      "name": "LA FRANCE FIERE, MENEE PAR MARION MARECHAL ET SOUTENUE PAR ÉRIC ZEMMOUR",
+      "code": "LREC",
+      "count": 218,
+      "percentage1": 2.19,
+      "percentage2": 4.6
+    },
+    {
+      "name": "ALLIANCE RURALE",
+      "code": "LDVD",
+      "count": 199,
+      "percentage1": 2,
+      "percentage2": 4.2
+    },
+    {
+      "name": "GAUCHE UNIE POUR LE MONDE DU TRAVAIL SOUTENUE PAR FABIEN ROUSSEL",
+      "code": "LCOM",
+      "count": 175,
+      "percentage1": 1.76,
+      "percentage2": 3.69
+    },
+    {
+      "name": "PARTI ANIMALISTE - LES ANIMAUX COMPTENT, VOTRE VOIX AUSSI",
+      "code": "LDIV",
+      "count": 82,
+      "percentage1": 0.82,
+      "percentage2": 1.73
+    },
+    {
+      "name": "ÉCOLOGIE AU CENTRE",
+      "code": "LECO",
+      "count": 75,
+      "percentage1": 0.75,
+      "percentage2": 1.58
+    },
+    {
+      "name": "ECOLOGIE POSITIVE ET TERRITOIRES",
+      "code": "LECO",
+      "count": 70,
+      "percentage1": 0.7,
+      "percentage2": 1.48
+    },
+    {
+      "name": "LISTE ASSELINEAU-FREXIT, POUR LE POUVOIR D'ACHAT ET POUR LA PAIX",
+      "code": "LDIV",
+      "count": 61,
+      "percentage1": 0.61,
+      "percentage2": 1.29
+    },
+    {
+      "name": "L'EUROPE CA SUFFIT !",
+      "code": "LEXD",
+      "count": 58,
+      "percentage1": 0.58,
+      "percentage2": 1.22
+    },
+    {
+      "name": "EUROPE TERRITOIRES ÉCOLOGIE",
+      "code": "LDVG",
+      "count": 29,
+      "percentage1": 0.29,
+      "percentage2": 0.61
+    },
+    {
+      "name": "LUTTE OUVRIERE - LE CAMP DES TRAVAILLEURS",
+      "code": "LEXG",
+      "count": 23,
+      "percentage1": 0.23,
+      "percentage2": 0.49
+    },
+    {
+      "name": "ÉQUINOXE : ÉCOLOGIE PRATIQUE ET RENOUVEAU DÉMOCRATIQUE",
+      "code": "LECO",
+      "count": 15,
+      "percentage1": 0.15,
+      "percentage2": 0.32
+    },
+    {
+      "name": "CHANGER L'EUROPE",
+      "code": "LDVG",
+      "count": 10,
+      "percentage1": 0.1,
+      "percentage2": 0.21
+    },
+    {
+      "name": "FRANCE LIBRE",
+      "code": "LDIV",
+      "count": 9,
+      "percentage1": 0.09,
+      "percentage2": 0.19
+    },
+    {
+      "name": "POUR UN MONDE SANS FRONTIERES NI PATRONS, URGENCE REVOLUTION !",
+      "code": "LEXG",
+      "count": 9,
+      "percentage1": 0.09,
+      "percentage2": 0.19
+    },
+    {
+      "name": "ESPERANTO LANGUE COMMUNE",
+      "code": "LDIV",
+      "count": 7,
+      "percentage1": 0.07,
+      "percentage2": 0.15
+    },
+    {
+      "name": "\"POUR LE PAIN, LA PAIX, LA LIBERTÉ !\" PRÉSENTÉE PAR LE PARTI DES TRAVAILLEURS",
+      "code": "LEXG",
+      "count": 2,
+      "percentage1": 0.02,
+      "percentage2": 0.04
+    },
+    {
+      "name": "PACE - PARTI DES CITOYENS EUROPÉENS, POUR L'ARMÉE EUROPÉENNE, POUR L'EUROPE SOCIALE , POUR LA PLANÈTE !",
+      "code": "LDIV",
+      "count": 2,
+      "percentage1": 0.02,
+      "percentage2": 0.04
+    },
+    {
+      "name": "PARTI PIRATE",
+      "code": "LDIV",
+      "count": 2,
+      "percentage1": 0.02,
+      "percentage2": 0.04
+    },
+    {
+      "name": "FORTERESSE EUROPE - LISTE D'UNITE NATIONALISTE",
+      "code": "LEXD",
+      "count": 1,
+      "percentage1": 0.01,
+      "percentage2": 0.02
+    },
+    {
+      "name": "LIBERTÉ DÉMOCRATIQUE FRANÇAISE",
+      "code": "LDIV",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "DEMOCRATIE REPRESENTATIVE",
+      "code": "LDIV",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "DEFENDRE LES ENFANTS",
+      "code": "LDIV",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "LA RUCHE CITOYENNE",
+      "code": "LDIV",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "NON À L'UE ET À L'OTAN, COMMUNISTES POUR LA PAIX ET LE PROGRÈS SOCIAL",
+      "code": "LEXG",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "NON ! PRENONS-NOUS EN MAINS",
+      "code": "LDIV",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "NOUS LE PEUPLE",
+      "code": "LDIV",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "POUR UNE AUTRE EUROPE",
+      "code": "LDIV",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "PAIX ET DECROISSANCE",
+      "code": "LEXG",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "PARTI REVOLUTIONNAIRE COMMUNISTES",
+      "code": "LEXG",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "FREE PALESTINE",
+      "code": "LDIV",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "POUR UNE DEMOCRATIE REELLE : DECIDONS NOUS-MEMES !",
+      "code": "LDIV",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    },
+    {
+      "name": "POUR UNE HUMANITE SOUVERAINE",
+      "code": "LDIV",
+      "count": 0,
+      "percentage1": 0,
+      "percentage2": 0
+    }
+  ],
+  "summaryTable": {
+    "Inscrits": 9,
+    "Abstentions": 5,
+    "Votants": 4,
+    "Blancs": 66,
+    "Nuls": 90,
+    "Exprimés": 4
+  },
+  "commune": {
+    "TYPECOM": "COM",
+    "COM": "64260",
+    "REG": "75",
+    "DEP": "64",
+    "CTCD": "64D",
+    "ARR": "641",
+    "TNCC": "1",
+    "NCC": "HENDAYE",
+    "NCCENR": "Hendaye",
+    "LIBELLE": "Hendaye",
+    "CAN": "6410",
+    "COMPARENT": null
+  }
+}

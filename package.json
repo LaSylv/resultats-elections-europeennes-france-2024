@@ -1,0 +1,14 @@
+{
+  "name": "resultats-elections-europeennes-2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extract-data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "axios": "^1.7.2",
+    "jsdom": "^24.1.0"
+  }
+}

@@ -268,9 +268,9 @@
     }
   ],
   "summaryTable": {
-    "Inscrits": 2,
-    "Abstentions": 1,
-    "Votants": 1,
+    "Inscrits": 2048,
+    "Abstentions": 1012,
+    "Votants": 1036,
     "Blancs": 15,
     "Nuls": 45,
     "Exprimés": 976

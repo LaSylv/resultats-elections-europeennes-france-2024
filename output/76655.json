@@ -3,23 +3,23 @@
     {
       "name": "LA FRANCE REVIENT ! AVEC JORDAN BARDELLA ET MARINE LE PEN",
       "code": "LRN",
-      "count": 555,
-      "percentage1": 18.26,
-      "percentage2": 37.07
+      "count": 554,
+      "percentage1": 18.23,
+      "percentage2": 37.03
     },
     {
       "name": "BESOIN D'EUROPE",
       "code": "LENS",
       "count": 261,
       "percentage1": 8.59,
-      "percentage2": 17.43
+      "percentage2": 17.45
     },
     {
       "name": "RÉVEILLER L'EUROPE",
       "code": "LUG",
       "count": 194,
       "percentage1": 6.38,
-      "percentage2": 12.96
+      "percentage2": 12.97
     },
     {
       "name": "LA DROITE POUR FAIRE ENTENDRE LA VOIX DE LA FRANCE EN EUROPE",
@@ -268,12 +268,12 @@
     }
   ],
   "summaryTable": {
-    "Inscrits": 3,
-    "Abstentions": 1,
-    "Votants": 1,
+    "Inscrits": 3039,
+    "Abstentions": 1486,
+    "Votants": 1553,
     "Blancs": 21,
-    "Nuls": 35,
-    "Exprimés": 1
+    "Nuls": 36,
+    "Exprimés": 1496
   },
   "commune": {
     "TYPECOM": "COM",

@@ -5,14 +5,14 @@
       "code": "LRN",
       "count": 1,
       "percentage1": 24.58,
-      "percentage2": 55.82
+      "percentage2": 55.8
     },
     {
       "name": "LA FRANCE FIERE, MENEE PAR MARION MARECHAL ET SOUTENUE PAR ÉRIC ZEMMOUR",
       "code": "LREC",
       "count": 209,
       "percentage1": 4.04,
-      "percentage2": 9.19
+      "percentage2": 9.18
     },
     {
       "name": "BESOIN D'EUROPE",
@@ -24,16 +24,16 @@
     {
       "name": "ALLIANCE RURALE",
       "code": "LDVD",
-      "count": 113,
-      "percentage1": 2.19,
-      "percentage2": 4.97
+      "count": 114,
+      "percentage1": 2.21,
+      "percentage2": 5.01
     },
     {
       "name": "RÉVEILLER L'EUROPE",
       "code": "LUG",
       "count": 113,
       "percentage1": 2.19,
-      "percentage2": 4.97
+      "percentage2": 4.96
     },
     {
       "name": "LA DROITE POUR FAIRE ENTENDRE LA VOIX DE LA FRANCE EN EUROPE",
@@ -268,12 +268,12 @@
     }
   ],
   "summaryTable": {
-    "Inscrits": 5,
-    "Abstentions": 2,
-    "Votants": 2,
+    "Inscrits": 5167,
+    "Abstentions": 2840,
+    "Votants": 2327,
     "Blancs": 19,
-    "Nuls": 33,
-    "Exprimés": 2
+    "Nuls": 32,
+    "Exprimés": 2276
   },
   "commune": {
     "TYPECOM": "COM",

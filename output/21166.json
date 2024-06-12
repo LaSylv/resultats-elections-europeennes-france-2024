@@ -5,14 +5,14 @@
       "code": "LFI",
       "count": 925,
       "percentage1": 12.31,
-      "percentage2": 26.65
+      "percentage2": 26.63
     },
     {
       "name": "LA FRANCE REVIENT ! AVEC JORDAN BARDELLA ET MARINE LE PEN",
       "code": "LRN",
-      "count": 802,
-      "percentage1": 10.67,
-      "percentage2": 23.11
+      "count": 804,
+      "percentage1": 10.7,
+      "percentage2": 23.15
     },
     {
       "name": "RÉVEILLER L'EUROPE",
@@ -26,7 +26,7 @@
       "code": "LENS",
       "count": 386,
       "percentage1": 5.14,
-      "percentage2": 11.12
+      "percentage2": 11.11
     },
     {
       "name": "EUROPE ÉCOLOGIE",
@@ -268,12 +268,12 @@
     }
   ],
   "summaryTable": {
-    "Inscrits": 7,
-    "Abstentions": 3,
-    "Votants": 3,
+    "Inscrits": 7514,
+    "Abstentions": 3961,
+    "Votants": 3553,
     "Blancs": 43,
-    "Nuls": 39,
-    "Exprimés": 3
+    "Nuls": 37,
+    "Exprimés": 3473
   },
   "commune": {
     "TYPECOM": "COM",

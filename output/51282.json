@@ -1,32 +1,32 @@
 {
   "mainTable": [
     {
+      "name": "LA FRANCE REVIENT ! AVEC JORDAN BARDELLA ET MARINE LE PEN",
+      "code": "LRN",
+      "count": 249,
+      "percentage1": 17.6,
+      "percentage2": 28.39
+    },
+    {
       "name": "BESOIN D'EUROPE",
       "code": "LENS",
       "count": 248,
       "percentage1": 17.53,
-      "percentage2": 28.31
-    },
-    {
-      "name": "LA FRANCE REVIENT ! AVEC JORDAN BARDELLA ET MARINE LE PEN",
-      "code": "LRN",
-      "count": 248,
-      "percentage1": 17.53,
-      "percentage2": 28.31
+      "percentage2": 28.28
     },
     {
       "name": "RÉVEILLER L'EUROPE",
       "code": "LUG",
       "count": 109,
       "percentage1": 7.7,
-      "percentage2": 12.44
+      "percentage2": 12.43
     },
     {
       "name": "LA DROITE POUR FAIRE ENTENDRE LA VOIX DE LA FRANCE EN EUROPE",
       "code": "LLR",
       "count": 96,
       "percentage1": 6.78,
-      "percentage2": 10.96
+      "percentage2": 10.95
     },
     {
       "name": "LA FRANCE FIERE, MENEE PAR MARION MARECHAL ET SOUTENUE PAR ÉRIC ZEMMOUR",
@@ -40,7 +40,7 @@
       "code": "LVEC",
       "count": 33,
       "percentage1": 2.33,
-      "percentage2": 3.77
+      "percentage2": 3.76
     },
     {
       "name": "LA FRANCE INSOUMISE - UNION POPULAIRE",
@@ -268,12 +268,12 @@
     }
   ],
   "summaryTable": {
-    "Inscrits": 1,
+    "Inscrits": 1415,
     "Abstentions": 518,
     "Votants": 897,
     "Blancs": 9,
-    "Nuls": 12,
-    "Exprimés": 876
+    "Nuls": 11,
+    "Exprimés": 877
   },
   "commune": {
     "TYPECOM": "COM",

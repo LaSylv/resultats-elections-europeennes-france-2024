@@ -61,8 +61,8 @@ function csvToJson(csv) {
                             name: cells[0].textContent.trim(),
                             code: cells[1].textContent.trim(),
                             count: parseInt(cells[2].textContent.trim()),
-                            percentage1: parseFloat(cells[3].textContent.trim().replace(',', '.')),
-                            percentage2: parseFloat(cells[4].textContent.trim().replace(',', '.')),
+                            percentage1: parseFloat(cells[3].textContent.trim().replace(',', '.').replace(" ","")),
+                            percentage2: parseFloat(cells[4].textContent.trim().replace(',', '.').replace(" ","")),
                         };
                     }
 
@@ -78,7 +78,7 @@ function csvToJson(csv) {
                         const cells = row.querySelectorAll('td');
                         const key = cells[0].textContent.trim();
                         const value = cells[1].textContent.trim();
-                        summaryData[key] = isNaN(parseFloat(value)) ? value : parseFloat(value.replace(',', '.'));
+                        summaryData[key] = summaryData[key] = isNaN(parseFloat(value)) ? value : parseFloat(value.replace(',', '.').replace(" ",""));
                     });
 
                     var newItem = {

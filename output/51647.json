@@ -3,72 +3,72 @@
     {
       "name": "LA FRANCE REVIENT ! AVEC JORDAN BARDELLA ET MARINE LE PEN",
       "code": "LRN",
-      "count": 165,
-      "percentage1": 25.08,
-      "percentage2": 45.33
+      "count": 166,
+      "percentage1": 25.23,
+      "percentage2": 45.36
     },
     {
       "name": "BESOIN D'EUROPE",
       "code": "LENS",
-      "count": 63,
-      "percentage1": 9.57,
-      "percentage2": 17.31
+      "count": 64,
+      "percentage1": 9.73,
+      "percentage2": 17.49
     },
     {
       "name": "LA DROITE POUR FAIRE ENTENDRE LA VOIX DE LA FRANCE EN EUROPE",
       "code": "LLR",
       "count": 30,
       "percentage1": 4.56,
-      "percentage2": 8.24
+      "percentage2": 8.2
     },
     {
       "name": "RÉVEILLER L'EUROPE",
       "code": "LUG",
       "count": 28,
       "percentage1": 4.26,
-      "percentage2": 7.69
+      "percentage2": 7.65
     },
     {
       "name": "EUROPE ÉCOLOGIE",
       "code": "LVEC",
       "count": 19,
       "percentage1": 2.89,
-      "percentage2": 5.22
+      "percentage2": 5.19
     },
     {
       "name": "LA FRANCE FIERE, MENEE PAR MARION MARECHAL ET SOUTENUE PAR ÉRIC ZEMMOUR",
       "code": "LREC",
       "count": 16,
       "percentage1": 2.43,
-      "percentage2": 4.4
+      "percentage2": 4.37
     },
     {
       "name": "LA FRANCE INSOUMISE - UNION POPULAIRE",
       "code": "LFI",
       "count": 12,
       "percentage1": 1.82,
-      "percentage2": 3.3
+      "percentage2": 3.28
     },
     {
       "name": "ALLIANCE RURALE",
       "code": "LDVD",
       "count": 9,
       "percentage1": 1.37,
-      "percentage2": 2.47
+      "percentage2": 2.46
     },
     {
       "name": "GAUCHE UNIE POUR LE MONDE DU TRAVAIL SOUTENUE PAR FABIEN ROUSSEL",
       "code": "LCOM",
       "count": 7,
       "percentage1": 1.06,
-      "percentage2": 1.92
+      "percentage2": 1.91
     },
     {
       "name": "PARTI ANIMALISTE - LES ANIMAUX COMPTENT, VOTRE VOIX AUSSI",
       "code": "LDIV",
       "count": 4,
       "percentage1": 0.61,
-      "percentage2": 1.1
+      "percentage2": 1.09
     },
     {
       "name": "ÉCOLOGIE AU CENTRE",
@@ -272,8 +272,8 @@
     "Abstentions": 283,
     "Votants": 375,
     "Blancs": 5,
-    "Nuls": 6,
-    "Exprimés": 364
+    "Nuls": 4,
+    "Exprimés": 366
   },
   "commune": {
     "TYPECOM": "COM",

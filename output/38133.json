@@ -268,12 +268,12 @@
     }
   ],
   "summaryTable": {
-    "Inscrits": 4,
-    "Abstentions": 1,
-    "Votants": 2,
+    "Inscrits": 4324,
+    "Abstentions": 1633,
+    "Votants": 2691,
     "Blancs": 31,
     "Nuls": 15,
-    "Exprimés": 2
+    "Exprimés": 2645
   },
   "commune": {
     "TYPECOM": "COM",

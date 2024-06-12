@@ -5,119 +5,119 @@
       "code": "LRN",
       "count": 143,
       "percentage1": 18.77,
-      "percentage2": 35.14
+      "percentage2": 38.13
     },
     {
       "name": "BESOIN D'EUROPE",
       "code": "LENS",
       "count": 42,
       "percentage1": 5.51,
-      "percentage2": 10.32
+      "percentage2": 11.2
     },
     {
       "name": "LA DROITE POUR FAIRE ENTENDRE LA VOIX DE LA FRANCE EN EUROPE",
       "code": "LLR",
       "count": 41,
       "percentage1": 5.38,
-      "percentage2": 10.07
+      "percentage2": 10.93
     },
     {
       "name": "LA FRANCE FIERE, MENEE PAR MARION MARECHAL ET SOUTENUE PAR ÉRIC ZEMMOUR",
       "code": "LREC",
       "count": 30,
       "percentage1": 3.94,
-      "percentage2": 7.37
+      "percentage2": 8
     },
     {
       "name": "RÉVEILLER L'EUROPE",
       "code": "LUG",
       "count": 27,
       "percentage1": 3.54,
-      "percentage2": 6.63
+      "percentage2": 7.2
     },
     {
       "name": "LA FRANCE INSOUMISE - UNION POPULAIRE",
       "code": "LFI",
       "count": 18,
       "percentage1": 2.36,
-      "percentage2": 4.42
+      "percentage2": 4.8
     },
     {
       "name": "GAUCHE UNIE POUR LE MONDE DU TRAVAIL SOUTENUE PAR FABIEN ROUSSEL",
       "code": "LCOM",
       "count": 16,
       "percentage1": 2.1,
-      "percentage2": 3.93
+      "percentage2": 4.27
     },
     {
       "name": "EUROPE ÉCOLOGIE",
       "code": "LVEC",
       "count": 16,
       "percentage1": 2.1,
-      "percentage2": 3.93
+      "percentage2": 4.27
     },
     {
       "name": "ALLIANCE RURALE",
       "code": "LDVD",
       "count": 15,
       "percentage1": 1.97,
-      "percentage2": 3.69
+      "percentage2": 4
     },
     {
       "name": "PARTI ANIMALISTE - LES ANIMAUX COMPTENT, VOTRE VOIX AUSSI",
       "code": "LDIV",
       "count": 8,
       "percentage1": 1.05,
-      "percentage2": 1.97
+      "percentage2": 2.13
     },
     {
       "name": "LISTE ASSELINEAU-FREXIT, POUR LE POUVOIR D'ACHAT ET POUR LA PAIX",
       "code": "LDIV",
       "count": 6,
       "percentage1": 0.79,
-      "percentage2": 1.47
+      "percentage2": 1.6
     },
     {
       "name": "ÉCOLOGIE AU CENTRE",
       "code": "LECO",
       "count": 4,
       "percentage1": 0.52,
-      "percentage2": 0.98
+      "percentage2": 1.07
     },
     {
       "name": "ECOLOGIE POSITIVE ET TERRITOIRES",
       "code": "LECO",
       "count": 3,
       "percentage1": 0.39,
-      "percentage2": 0.74
+      "percentage2": 0.8
     },
     {
       "name": "L'EUROPE CA SUFFIT !",
       "code": "LEXD",
       "count": 2,
       "percentage1": 0.26,
-      "percentage2": 0.49
+      "percentage2": 0.53
     },
     {
       "name": "PAIX ET DECROISSANCE",
       "code": "LEXG",
       "count": 2,
       "percentage1": 0.26,
-      "percentage2": 0.49
+      "percentage2": 0.53
     },
     {
       "name": "ESPERANTO LANGUE COMMUNE",
       "code": "LDIV",
       "count": 1,
       "percentage1": 0.13,
-      "percentage2": 0.25
+      "percentage2": 0.27
     },
     {
       "name": "ÉQUINOXE : ÉCOLOGIE PRATIQUE ET RENOUVEAU DÉMOCRATIQUE",
       "code": "LECO",
       "count": 1,
       "percentage1": 0.13,
-      "percentage2": 0.25
+      "percentage2": 0.27
     },
     {
       "name": "LIBERTÉ DÉMOCRATIQUE FRANÇAISE",
@@ -272,8 +272,8 @@
     "Abstentions": 339,
     "Votants": 423,
     "Blancs": 9,
-    "Nuls": 7,
-    "Exprimés": 407
+    "Nuls": 39,
+    "Exprimés": 375
   },
   "commune": {
     "TYPECOM": "COM",

@@ -5,84 +5,84 @@
       "code": "LUG",
       "count": 7,
       "percentage1": 9.86,
-      "percentage2": 16.67
+      "percentage2": 16.28
     },
     {
       "name": "BESOIN D'EUROPE",
       "code": "LENS",
       "count": 7,
       "percentage1": 9.86,
-      "percentage2": 16.67
+      "percentage2": 16.28
+    },
+    {
+      "name": "ALLIANCE RURALE",
+      "code": "LDVD",
+      "count": 6,
+      "percentage1": 8.45,
+      "percentage2": 13.95
     },
     {
       "name": "EUROPE ÉCOLOGIE",
       "code": "LVEC",
       "count": 6,
       "percentage1": 8.45,
-      "percentage2": 14.29
+      "percentage2": 13.95
     },
     {
       "name": "LA FRANCE REVIENT ! AVEC JORDAN BARDELLA ET MARINE LE PEN",
       "code": "LRN",
       "count": 6,
       "percentage1": 8.45,
-      "percentage2": 14.29
-    },
-    {
-      "name": "ALLIANCE RURALE",
-      "code": "LDVD",
-      "count": 5,
-      "percentage1": 7.04,
-      "percentage2": 11.9
+      "percentage2": 13.95
     },
     {
       "name": "LA FRANCE INSOUMISE - UNION POPULAIRE",
       "code": "LFI",
       "count": 3,
       "percentage1": 4.23,
-      "percentage2": 7.14
+      "percentage2": 6.98
     },
     {
       "name": "LA DROITE POUR FAIRE ENTENDRE LA VOIX DE LA FRANCE EN EUROPE",
       "code": "LLR",
       "count": 2,
       "percentage1": 2.82,
-      "percentage2": 4.76
+      "percentage2": 4.65
     },
     {
       "name": "PARTI ANIMALISTE - LES ANIMAUX COMPTENT, VOTRE VOIX AUSSI",
       "code": "LDIV",
       "count": 2,
       "percentage1": 2.82,
-      "percentage2": 4.76
+      "percentage2": 4.65
     },
     {
       "name": "GAUCHE UNIE POUR LE MONDE DU TRAVAIL SOUTENUE PAR FABIEN ROUSSEL",
       "code": "LCOM",
       "count": 1,
       "percentage1": 1.41,
-      "percentage2": 2.38
+      "percentage2": 2.33
     },
     {
       "name": "L'EUROPE CA SUFFIT !",
       "code": "LEXD",
       "count": 1,
       "percentage1": 1.41,
-      "percentage2": 2.38
+      "percentage2": 2.33
     },
     {
       "name": "LISTE ASSELINEAU-FREXIT, POUR LE POUVOIR D'ACHAT ET POUR LA PAIX",
       "code": "LDIV",
       "count": 1,
       "percentage1": 1.41,
-      "percentage2": 2.38
+      "percentage2": 2.33
     },
     {
       "name": "LA FRANCE FIERE, MENEE PAR MARION MARECHAL ET SOUTENUE PAR ÉRIC ZEMMOUR",
       "code": "LREC",
       "count": 1,
       "percentage1": 1.41,
-      "percentage2": 2.38
+      "percentage2": 2.33
     },
     {
       "name": "LIBERTÉ DÉMOCRATIQUE FRANÇAISE",
@@ -272,8 +272,8 @@
     "Abstentions": 27,
     "Votants": 44,
     "Blancs": 1,
-    "Nuls": 1,
-    "Exprimés": 42
+    "Nuls": 0,
+    "Exprimés": 43
   },
   "commune": {
     "TYPECOM": "COM",

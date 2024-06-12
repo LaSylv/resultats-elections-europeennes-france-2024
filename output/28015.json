@@ -268,12 +268,12 @@
     }
   ],
   "summaryTable": {
-    "Inscrits": 3,
-    "Abstentions": 2,
-    "Votants": 1,
+    "Inscrits": 3953,
+    "Abstentions": 2021,
+    "Votants": 1932,
     "Blancs": 24,
     "Nuls": 24,
-    "Exprimés": 1
+    "Exprimés": 1884
   },
   "commune": {
     "TYPECOM": "COM",

@@ -5,35 +5,35 @@
       "code": "LRN",
       "count": 559,
       "percentage1": 18.07,
-      "percentage2": 31.91
+      "percentage2": 31.96
     },
     {
       "name": "RÉVEILLER L'EUROPE",
       "code": "LUG",
       "count": 293,
       "percentage1": 9.47,
-      "percentage2": 16.72
+      "percentage2": 16.75
     },
     {
       "name": "BESOIN D'EUROPE",
       "code": "LENS",
       "count": 229,
       "percentage1": 7.4,
-      "percentage2": 13.07
+      "percentage2": 13.09
     },
     {
       "name": "EUROPE ÉCOLOGIE",
       "code": "LVEC",
       "count": 148,
       "percentage1": 4.78,
-      "percentage2": 8.45
+      "percentage2": 8.46
     },
     {
       "name": "LA FRANCE INSOUMISE - UNION POPULAIRE",
       "code": "LFI",
       "count": 133,
       "percentage1": 4.3,
-      "percentage2": 7.59
+      "percentage2": 7.6
     },
     {
       "name": "LA DROITE POUR FAIRE ENTENDRE LA VOIX DE LA FRANCE EN EUROPE",
@@ -47,14 +47,14 @@
       "code": "LREC",
       "count": 68,
       "percentage1": 2.2,
-      "percentage2": 3.88
+      "percentage2": 3.89
     },
     {
       "name": "PARTI ANIMALISTE - LES ANIMAUX COMPTENT, VOTRE VOIX AUSSI",
       "code": "LDIV",
       "count": 50,
       "percentage1": 1.62,
-      "percentage2": 2.85
+      "percentage2": 2.86
     },
     {
       "name": "GAUCHE UNIE POUR LE MONDE DU TRAVAIL SOUTENUE PAR FABIEN ROUSSEL",
@@ -75,7 +75,7 @@
       "code": "LECO",
       "count": 26,
       "percentage1": 0.84,
-      "percentage2": 1.48
+      "percentage2": 1.49
     },
     {
       "name": "LISTE ASSELINEAU-FREXIT, POUR LE POUVOIR D'ACHAT ET POUR LA PAIX",
@@ -268,12 +268,12 @@
     }
   ],
   "summaryTable": {
-    "Inscrits": 3,
-    "Abstentions": 1,
-    "Votants": 1,
+    "Inscrits": 3094,
+    "Abstentions": 1295,
+    "Votants": 1799,
     "Blancs": 28,
-    "Nuls": 19,
-    "Exprimés": 1
+    "Nuls": 22,
+    "Exprimés": 1749
   },
   "commune": {
     "TYPECOM": "COM",
